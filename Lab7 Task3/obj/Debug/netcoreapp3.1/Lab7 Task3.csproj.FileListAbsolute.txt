@@ -1,0 +1,13 @@
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\bin\Debug\netcoreapp3.1\Lab7 Task3.exe
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\bin\Debug\netcoreapp3.1\Lab7 Task3.deps.json
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\bin\Debug\netcoreapp3.1\Lab7 Task3.runtimeconfig.json
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\bin\Debug\netcoreapp3.1\Lab7 Task3.runtimeconfig.dev.json
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\bin\Debug\netcoreapp3.1\Lab7 Task3.dll
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\bin\Debug\netcoreapp3.1\Lab7 Task3.pdb
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\obj\Debug\netcoreapp3.1\Lab7 Task3.csprojAssemblyReference.cache
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\obj\Debug\netcoreapp3.1\Lab7 Task3.AssemblyInfoInputs.cache
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\obj\Debug\netcoreapp3.1\Lab7 Task3.AssemblyInfo.cs
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\obj\Debug\netcoreapp3.1\Lab7 Task3.csproj.CoreCompileInputs.cache
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\obj\Debug\netcoreapp3.1\Lab7 Task3.dll
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\obj\Debug\netcoreapp3.1\Lab7 Task3.pdb
+G:\Ragib\8 semester\c # Lab\Lab7 Task3\Lab7 Task3\obj\Debug\netcoreapp3.1\Lab7 Task3.genruntimeconfig.cache
